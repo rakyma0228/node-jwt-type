@@ -16,17 +16,13 @@ Hosted on local host.
 
 ## Built With
 
-* [Docker](https://www.docker.com/)
-* [Docker Compose](https://docs.docker.com/compose/)
-* [Visual Studio Code](https://code.visualstudio.com/)
+- [Docker](https://www.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Versioning
 
 [Semantic Versioning (SemVer) 2.0.0](http://semver.org/)
-
-## Authors
-
-**Jerry Chong** - [jerrychong25](https://github.com/jerrychong25)
 
 ## License
 
